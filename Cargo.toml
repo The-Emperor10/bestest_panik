@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["The-Emperor10 <44948520+The-Emperor10@users.noreply.github.com>"]
 description = "The bestest panik that really paniks. (joke crate)"
 repository = "https://github.com/The-Emperor10/bestest_panik"
-license = "wtfpl"
+license-file = "LICENSE"
 
 [dependencies]
 libc = "0.2"
